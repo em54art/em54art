@@ -5,7 +5,7 @@ My first interest with coding started with video games when I played Pokémon di
 
 <h2>📖Currently learning</h2>
 <ul>
-  <li>python</li>
+  <li>python, django</li>
   <li>godot</li>
   <li>digital art</li>
 </ul>
